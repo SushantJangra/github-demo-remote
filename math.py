@@ -4,7 +4,7 @@ def add(x,y):
 
 # Subtract Implementation
 def subtrack(x,y):
-    pass
+    return x-y             # From report repository
 
 # Multiply Implementation
 def multiply(x,y):
